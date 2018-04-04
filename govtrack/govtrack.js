@@ -1,0 +1,1 @@
+$(rep).html("<p>Be a cool guy</p>")
