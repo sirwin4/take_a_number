@@ -1,0 +1,27 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "carId": 31,
+            "infoId": 21
+        }
+    ],
+    "cars": [
+        {
+            "id": 31,
+            "Car": {
+                "make": "Ferarri",
+                "model": "California",
+                "year": "'65"
+            }
+        }
+    ],
+    "infos": [
+        {
+            "id": 21,
+            "FirstName": "Sean",
+            "LastName": "Irwin",
+            "Address": "1010 Whatever Way"
+        }
+    ]
+}
